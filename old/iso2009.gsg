@@ -1,0 +1,21 @@
+# Signatures Produced by Clustering of Raster
+#		c:\github\cvi_ndvi_redux\data\b2009_ndvi.tif
+#    number_of_classes=2  max_iterations=20  min_class_size=20
+#    sampling interval=10
+
+#    Number of selected grids
+/*           1
+#    Layer-Number    Band-name
+/*           1       b2009_ndvi.tif\Band_1
+
+#  Type   Number of Classes   Number of Layers    Number of Parametric Layers
+    1             1                  1                         1
+# ===================================================================
+
+#  Class ID     Number of Cells    Class Name
+        1                25         
+# Layers             1
+# Means    
+                  0.43877
+# Covariance
+    1             0.00049

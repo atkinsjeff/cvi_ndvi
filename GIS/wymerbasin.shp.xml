@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Ed Watson</origin>
+				<pubdate>2004</pubdate>
+				<title Sync="TRUE">wymerbasin</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<ftname Sync="TRUE">wymerbasin</ftname><onlink Sync="TRUE">\\EDWATSON\D$\cvipropgis\wymerbasin.shp</onlink><origin>Canaan Valley Institute</origin></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This shapefile is a delineation of the watershed that forms Wymer Run, a tributary of the Blackwater River.  The watershed was delineated using Basin1, an ArcView extension, and a 10 meter DEM.</abstract>
+			<purpose>The shape was created to determine drainage area to a pour point.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2004.</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>N/A</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-79.451362</westbc>
+				<eastbc Sync="TRUE">-79.422381</eastbc>
+				<northbc Sync="TRUE">39.128132</northbc>
+				<southbc Sync="TRUE">39.105259</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">633903.022352</leftbc><rightbc Sync="TRUE">636366.365858</rightbc><bottombc Sync="TRUE">4329641.390809</bottombc><topbc Sync="TRUE">4332138.126649</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none.</themekt>
+				<themekey>Hydrography</themekey>
+				<themekey>Watershed</themekey><themekey>Catchment</themekey><themekey>Basin</themekey></theme>
+			<place><placekey>West Virginia</placekey><placekey>Tucker County</placekey><placekey>Canaan Valley</placekey><placekey>Blackwater River</placekey></place><theme><themekey>Wymer Run</themekey></theme></keywords>
+		<accconst>none</accconst>
+		<useconst>none</useconst>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800</native>
+		<natvform Sync="TRUE">Shapefile</natvform><ptcontac><cntinfo><cntorgp><cntorg>Canaan Valley Institute</cntorg><cntper>Ed Watson</cntper></cntorgp><cntaddr><addrtype>mailing address</addrtype><address>P.O. Box 673</address><city>Davis</city><state>West Virginia</state><postal>26260</postal><country>United States</country></cntaddr><cntvoice>3044364739</cntvoice><cntfax>3044634759</cntfax><hours>M-F 9-5</hours><cntpos>Hydrologist</cntpos><cntemail>ed.watson@canaanvi.org</cntemail></cntinfo></ptcontac></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\JANETT~1.BEN\LOCALS~1\Temp\xml15.tmp</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">X:\potpourri\cvi_metadata_template.xml</srcused><date Sync="TRUE">20041202</date><time Sync="TRUE">14013600</time></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">D:\cvipropgis\Copy of devilsrbasin.shp.xml</srcused><date Sync="TRUE">20041202</date><time Sync="TRUE">15025900</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="wymerbasin">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">1</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="wymerbasin"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<eainfo>
+		<detailed Name="wymerbasin">
+			<enttyp>
+				<enttypl Sync="TRUE">wymerbasin</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">ID</attrlabl><attalias Sync="TRUE">ID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">GRIDCODE</attrlabl><attalias Sync="TRUE">GRIDCODE</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">AREA_KM2</attrlabl><attalias Sync="TRUE">AREA_KM2</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">12</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">PERIMET_KM</attrlabl><attalias Sync="TRUE">PERIMET_KM</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">SL_MIN_PRC</attrlabl><attalias Sync="TRUE">SL_MIN_PRC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">SL_MAX_PRC</attrlabl><attalias Sync="TRUE">SL_MAX_PRC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">SL_AVE_PRC</attrlabl><attalias Sync="TRUE">SL_AVE_PRC</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">EL_MIN_M</attrlabl><attalias Sync="TRUE">EL_MIN_M</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">EL_MAX_M</attrlabl><attalias Sync="TRUE">EL_MAX_M</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">EL_AVE_M</attrlabl><attalias Sync="TRUE">EL_AVE_M</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr><attr><attrlabl Sync="TRUE">EL_STDEV</attrlabl><attalias Sync="TRUE">EL_STDEV</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">L_MAX_KM</attrlabl><attalias Sync="TRUE">L_MAX_KM</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">L_EQV_KM</attrlabl><attalias Sync="TRUE">L_EQV_KM</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">8</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">L_RELAT</attrlabl><attalias Sync="TRUE">L_RELAT</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">7</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.007</transize>
+					<dssize Sync="TRUE">0.017</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<distliab>CVI makes no warranty, express or implied, of any nature or effect as to the data and related graphics contained herein.  CVI shall not be held liable for improper or incorrect use of the data and graphics contained herein by a buyer, donee or other person relying upon the same.  It is the responsibility of the person using or relying upon these data and graphics to do so appropriately and consistently within the limitations of geospatial data in general and these data in particular.  Each user of these data and graphics are instructed to give careful attention to the contents of all metadata documentation associated with these data.  CVI will not be liable for any direct, indirect, special, general, incidental or consequential damages arising out of the use or inability to use the data, related graphics, or any accompanying documentation.</distliab><resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20041202</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Canaan Valley Institute</cntorg>
+					<cntper>Ed Watson</cntper></cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Davis</city>
+					<state>WV</state>
+					<postal>26260</postal>
+					<address>P.O. Box 673</address><country>USA</country></cntaddr>
+				<cntvoice>304-463-4739</cntvoice>
+				<cntpos>Geospatial Coordinator</cntpos><cntvoice>800-922-3601</cntvoice><cntfax>304-463-4759</cntfax><hours>M-F 9-5</hours><cntinst>Please ask for the Geospatial Coordinator when calling.</cntinst><cntaddr><address>2nd Floor, B&amp;L Building</address><address>Front Street Circle</address><addrtype>physical address</addrtype><address>Douglas Road</address><city>Thomas</city><state>WV</state><postal>26292</postal><country>USA</country></cntaddr></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><ModDate>20041202</ModDate><ModTime>15032600</ModTime><CreaDate>20041202</CreaDate><CreaTime>15025900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20041202</SyncDate><SyncTime>15025900</SyncTime><MetaID>{023C9247-4334-4564-969A-183E7ADBB74B}</MetaID></Esri><mdDateSt Sync="TRUE">20041202</mdDateSt><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 8.3.0.800</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">wymerbasin</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">633903.022352</westBL><eastBL Sync="TRUE">636366.365858</eastBL><northBL Sync="TRUE">4332138.126649</northBL><southBL Sync="TRUE">4329641.390809</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-79.451362</westBL><eastBL Sync="TRUE">-79.422381</eastBL><northBL Sync="TRUE">39.128132</northBL><southBL Sync="TRUE">39.105259</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\EDWATSON\D$\cvipropgis\wymerbasin.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.017</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="wymerbasin"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><spref><horizsys><cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_UTM_Zone_17N</projcsn></cordsysn><planar><planci><plance Sync="TRUE">coordinate pair</plance><plandu Sync="TRUE">meters</plandu><coordrep><absres Sync="TRUE">0.000004</absres><ordres Sync="TRUE">0.000004</ordres></coordrep></planci><gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">17</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-81.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar><geodetic><horizdn Sync="TRUE">North American Datum of 1983</horizdn><ellips Sync="TRUE">Geodetic Reference System 80</ellips><semiaxis Sync="TRUE">6378137.000000</semiaxis><denflat Sync="TRUE">298.257222</denflat></geodetic></horizsys></spref><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_UTM_Zone_17N</identCode></refSysID></RefSystem></refSysInfo></metadata>
